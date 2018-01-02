@@ -1640,7 +1640,7 @@ MonoBehaviour:
   sourceSpatialBlend: 1
   sourceDopplerLevel: 1
   sourceSpread: 0
-  sourceVolume: 1
+  sourceVolume: 0.25
   sourceRolloffMode: 0
   sourceMaxDistance: 500
   sourceMinDistance: 1
@@ -4854,7 +4854,7 @@ MonoBehaviour:
   sourceSpatialBlend: 1
   sourceDopplerLevel: 1
   sourceSpread: 0
-  sourceVolume: 1
+  sourceVolume: 0.25
   sourceRolloffMode: 0
   sourceMaxDistance: 500
   sourceMinDistance: 1
@@ -5627,14 +5627,14 @@ MonoBehaviour:
   occlusionEnabled: 0
   playOnAwake: 1
   sourceClip: {fileID: 8300000, guid: c8ceb79bd39904b7fa834bd108e6e47e, type: 3}
-  sourceLoop: 1
+  sourceLoop: 0
   sourceMute: 0
   sourcePitch: 1
   sourcePriority: 128
   sourceSpatialBlend: 1
   sourceDopplerLevel: 1
   sourceSpread: 0
-  sourceVolume: 1
+  sourceVolume: 0.25
   sourceRolloffMode: 0
   sourceMaxDistance: 500
   sourceMinDistance: 1
