@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class LightUp : MonoBehaviour
+public class LightUp_starter : MonoBehaviour
 {
 	// The initial material of the orb.
 	private Material defaultMaterial;

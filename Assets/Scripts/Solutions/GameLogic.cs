@@ -6,7 +6,7 @@ using System.Collections;
  * 
  * Do not use this script directly as the file and class names are incorrect.
  */
-public class GameLogic_4_Final : MonoBehaviour
+public class GameLogic : MonoBehaviour
 {
 	public GameObject player;
 	public GameObject eventSystem;

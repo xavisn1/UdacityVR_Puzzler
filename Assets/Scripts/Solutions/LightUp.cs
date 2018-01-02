@@ -6,7 +6,7 @@ using System.Collections;
  * 
  * Do not use this script directly as the file and class names are incorrect.
  */
-public class LightUp_2_Final : MonoBehaviour
+public class LightUp : MonoBehaviour
 {
 	// The initial material of the orb.
 	private Material defaultMaterial;

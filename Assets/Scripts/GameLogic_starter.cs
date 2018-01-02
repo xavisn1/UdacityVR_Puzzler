@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GameLogic : MonoBehaviour
+public class GameLogic_starter : MonoBehaviour
 {
 	public GameObject startUI, restartUI;
 
