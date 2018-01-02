@@ -197,7 +197,7 @@ public class GameLogic : MonoBehaviour
 		iTween.MoveTo(player, 
 			iTween.Hash(
 				"position", restartPoint.transform.position, 
-				"time", 2, 
+				"time", 4, 
 				"easetype", "linear"
 			)
 		);
