@@ -7,4 +7,4 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - GVR Unity SDK v1.60.0
 - iTween v2.0.7
 
-[Watch the video](Documentation/Puzzler.avi)
+[![Demo Video](https://img.youtube.com/vi/prh1gEG9TtU/0.jpg)](https://youtu.be/prh1gEG9TtU)
