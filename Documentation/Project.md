@@ -1,6 +1,0 @@
-# Puzzler Project
-
-## Introduction
-
-
-
