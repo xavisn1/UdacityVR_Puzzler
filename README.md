@@ -1,14 +1,19 @@
 # Puzzler Project
 
-This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
-
 ## Introduction
 
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
+
+
+The project consists on design and develop a simple puzzle Virtual Reality application, using Unity and GoogleVR, with the objective of learn VR desing, development and project management.
+
+
+This document contains the specifications of the mentioned application and some information about the project schedule.
 
 
 ## Demo video
 
-[![Demo Video](https://img.youtube.com/vi/prh1gEG9TtU/0.jpg)](https://youtu.be/prh1gEG9TtU)
+[![Demo Video](https://img.youtube.com/vi/hgUytoiGTPs/0.jpg)](https://youtu.be/hgUytoiGTPs)
 
 ## Scenes
 
@@ -23,6 +28,10 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 ### End Scene
 
 ![Start Scene](Documentation/Scene3.png)
+
+## Project Schedule
+
+### Iteration 1
 
 ## Third Party Software
 
